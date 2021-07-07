@@ -1,0 +1,21 @@
+.course-image {
+  max-width: 350px;
+  border-radius: 20px;
+}
+
+
+.about {
+  padding: 20px;
+}
+
+.course-video{
+  padding-left: 20px;
+  padding-top: 40px;
+  width: 1280px;
+  height: 720px;
+}
+
+.column{
+  width: 100%;
+
+}
