@@ -1,5 +1,6 @@
 This Code is my works but follow the Firebase with Angular couse in Angular University;
-This is very useful class. After the class I use Angular built my portfolio website. I would say Angular is much more efficient than Javascript. 
+This is very useful class. After the class I use Angular built my portfolio website from scratch. 
+I would say Angular is much more efficient than Javascript. 
 
 #############################################################################
 
